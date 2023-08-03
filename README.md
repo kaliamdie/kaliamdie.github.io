@@ -22,8 +22,7 @@ Multiple Choice Quiz App
 - CSS
 ## Installation
 1. Clone the repository to your local machine using the following 
-command:```https://github.com/kaliamdie/kaliamdie.github.io
-```
+command:```https://github.com/kaliamdie/kaliamdie.github.io```
  Navigate to the project folder:
 2. Install the required dependencies with `npm install`.
 4. Start the development server with `npm start`.
