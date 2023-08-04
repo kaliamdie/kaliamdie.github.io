@@ -25,7 +25,7 @@ Multiple Choice Quiz App
 command: ```git clone https://github.com/kaliamdie/kaliamdie.github.io```
  Navigate to the project folder:
 2. Install the required dependencies with `npm install`.
-4. Start the development server with `npm start`.
+4. Start the development server with `npm run dev`.
 ## Resources
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [Stack OverFlow](https://stackoverflow.com/)
