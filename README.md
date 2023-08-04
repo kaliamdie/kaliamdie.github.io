@@ -21,7 +21,7 @@ Multiple Choice Quiz App
 - Material-UI
 - CSS
 ## API
--[open trivia api](https://opentdb.com/api_config.php)
+- The api that I used [open trivia api](https://opentdb.com/api_config.php).
 ## Installation
 1. Clone the repository to your local machine using the following 
 command: ```git clone https://github.com/kaliamdie/kaliamdie.github.io```
